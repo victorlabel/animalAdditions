@@ -1,7 +1,7 @@
 # Download Instructions:
 Download the zip and place it in the datapacks folder of your world:
 
-
+Download: https://github.com/victorlabel/animalAdditions/raw/master/AnimalAdditions.zip
 
 This is an example path to the datapacks folder:
 
@@ -11,7 +11,7 @@ See https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack for more in
 
 
 # Miniature Horses:
-To ride miniature animals, hold right click just above the animal
+To ride miniature animals, hold right click with an empty hand just above the animal
   
 To add a saddle/carpet, ride the horse and then click e, then add the saddle into the inventory
 
@@ -44,4 +44,4 @@ To craft a bee pack, drop:
   
 To equip the pack, drop it near a bee
 
-To open the pack, hold right click around, not on, the bee
+To open the pack, hold right click with an empty hand around, not on, the bee
