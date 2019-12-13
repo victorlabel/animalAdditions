@@ -3,6 +3,8 @@ Download the zip and place it in the datapacks folder of your world:
 
 ![image](https://user-images.githubusercontent.com/57854057/70820684-e27b6f80-1d9e-11ea-981d-b82839f90071.png)
 
+This is an example path to the datapacks folder:
+
 ![image](https://user-images.githubusercontent.com/57854057/70820822-2c645580-1d9f-11ea-8afa-58c36854984e.png)
 
 See https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack for more info.
